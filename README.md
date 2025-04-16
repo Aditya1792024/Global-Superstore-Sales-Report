@@ -1,3 +1,4 @@
+<img src="/Images/bg.jpg" width="600" height="340"/>
 <h1>Global Superstore Sales Report</h1>
 <h2>Project Overview:</h2>
 <p>This project focuses on the in-depth analysis of Superstore data to uncover actionable insights and drive data-informed decision-making. 
