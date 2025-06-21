@@ -41,7 +41,7 @@ Some key metrics included in this report are: Total Revenue, Total Orders, Total
 <p>Asia Pacific and Europe are the leading markets in terms of revenue generation. The highest revenue comes from the Technology Category. Among customer segments, Consumer contributes the most to Total Revenue.</p>
 <p>The United States is the highest revenue-generating country, and the product generating the most revenue is ‘Tech-Ph-3148.’</p>
 <p>he most preferred ship mode is Standard Class, which accounts for 59.84% of total orders. However, for critical orders, customers tend to prefer First Class Ship Mode.</p>
-<h2>Trends & Patterns:</h2>
+<h2>Trends & Recommendations:</h2>
 <p>A commonly observed trend in orders and revenue is that both show a drop in the first quarter and then experience steady growth for the rest of the quarters.</p>
 <p>Revenue, Orders, and Profits are displaying strong YOY percentage growth of 26.25%, 28.68%, and 23.89%, respectively. However, the number of returns has also increased by 28.92%. While this increase aligns proportionally with order growth and is understandable, it requires attention. Efforts should be made to address customer complaints to identify the root causes of the returns.</p>
 <p>In the Furniture category, the YOY growth in returns is significantly higher than the YOY growth in orders, which is alarming. Within the Furniture category, Furnishings and Bookcases require immediate attention as returns are showing annual growth rates of 65.38% and 53.85%, respectively.</p>
