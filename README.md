@@ -3,6 +3,8 @@
 <h2>Project Overview:</h2>
 <p>This project focuses on the in-depth analysis of Superstore data to uncover actionable insights and drive data-informed decision-making. 
 By exploring key performance metrics and trends, the goal is to identify growth opportunities, optimize processes, and enhance overall business performance.</p>
+<h2>Problem Statement:</h2>
+<p>The Global Superstore management team needs to understand the key drivers of revenue growth and profitability across markets, product categories, and time periods, while addressing the rising rate of product returns, particularly in the Furniture category, to optimize sales strategies, improve customer satisfaction, and maximize profit margins in underperforming regions like Africa.</p>
 <h2>Key Objective:</h2>
 <p>Analyze monthly, quarterly, and yearly trends for Revenue and Total Orders to identify seasonality, growth patterns, and other time-related insights.</p>
 <p>Explore Category, Subcategory, and Product-wise contributions to Revenue.</p>
